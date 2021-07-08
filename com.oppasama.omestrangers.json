@@ -7,42 +7,42 @@
         "mediumrectangle": ["admob", "facebook", "ironsrc"]
     },
     "facebook": {
-        "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+        "native": "",
+        "banner": "",
+        "interstitial": "",
+        "nativebanner": "",
+        "mediumrectangle": ""
     },
     "admob": {
-        "publisher": "pub-3940256099942544",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial": "ca-app-pub-3940256099942544/1033173712",
-        "largebanner": "ca-app-pub-3940256099942544/6300978111",
-        "mediumrectangle": "ca-app-pub-3940256099942544/6300978111"
+        "publisher": "",
+        "banner": "",
+        "interstitial": "",
+        "largebanner": "",
+        "mediumrectangle": ""
     },
     "startapp": {
         "app": ""
     },
     "ironsrc":{
-        "app": ""
+        "app": "101bf4991"
     },
     "content": {
         "tip1": {
             "button": "chanti",
-            "title": "Title 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "mamadooo paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 "
+            "title": "Discover Omeglee talk Stranger",
+            "article": "Omegle may be a website where an individual can chat with a random stranger with none supervision. Lets see why its so popular among the teenagers, most of the people prefer having video chats with other users and talk with them over the webcam."
         },
         "tip2": {
-            "title": "Title 2 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2"
+            "title": "Advice and Helper For Omeglee",
+            "article": "Omegle lets in customers to socialise with strangers with out sharing private information. It pairs random customers in chat set-ups, recognized as You and Stranger. Omegle additionally gives video chat for adults. But with out an green age gate, underage customers can use the region via way of means of pretending to be adults."
         },
         "tip3": {
-            "title": "Title 3 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+            "title": "Make Live Video Call",
+            "article": "Omegle brought a risky function that lets in an consumer to seize a screenshot of the communique, Users may even input into what is understood as Spyy Mode in Omegle. In Spyy Mode, they are able to ask a query to 2 humans engaged in a talk communique and additionally view their communique."
         },
         "tip4": {
-            "title": "Title 4 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph",
-            "article": "paragraph text 4 paragraph text 4 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+            "title": "Make Live Text Chat",
+            "article": "Conversations with strangers may be monitored or unmonitored, relying at the users preference. be aware that customers are warned via way of means of Omegle of a extra opportunity they may locate themselves on the receiving stop of express and irrelevant content material while beginning an unsupervised conversation. "
         }
     }
 }
