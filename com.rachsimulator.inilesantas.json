@@ -1,0 +1,51 @@
+{
+    "networks": {
+        "native": ["admob", "facebook", "ironsrc"],
+        "banner": ["admob", "facebook", "ironsrc"],
+        "interstitial": ["admob", "facebook", "ironsrc"],
+        "nativebanner": ["admob", "facebook", "ironsrc"],
+        "mediumrectangle": ["admob", "facebook", "ironsrc"]
+    },
+    "facebook": {
+        "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+    },
+    "admob": {
+        "publisher": "",
+        "banner": "",
+        "interstitial": "",
+        "largebanner": "",
+        "mediumrectangle": ""
+    },
+    "startapp": {
+        "app": ""
+    },
+    "ironsrc":{
+        "app": ""
+    },
+    "content": {
+        "tip1": {
+            "title": "How To Use",
+            "article": "Sausage Man is a Battle Royale shooter for Android where the characters are sausages, leading to comical situations but without losing sight of the action, The thirst for Battle Royale shooter games seems to be unquenchable and we see them in all kinds of formats, from serious as in PUBG"
+        },
+        "tip2": {
+            "title": "Landing Location",
+            "article": "The first thing you need to pay attention to is the landing location. Each map in Sausage Man has its advantages and disadvantages, there are places with good loot that are targeted by many players, there are also quiet places which are usually located in the outermost area of the map. For beginners who are still confused about choosing a landing location, get off at a relatively safe location."
+        },
+        "tip3": {
+            "title": "Game Looting",
+            "article": "Looting is the first thing you should do after getting off the bus. Almost like other battle royale games, you go down without being equipped with anything and you have to find your own war equipment. This equipment can be in the form of weapons, armor, bags, scopes, helmets, or healing items scattered on the game map."
+        },
+        "tip4": {
+            "title": "Weapon Selection",
+            "article": " As explained above, of course you need a weapon. Sausage Man has a wide variety of weapons, each with its own advantages and disadvantages. There are many types of weapons that are powerful in close, medium, and long range. Pick a strategy, because when you choose the weapon to be used, of course you have to understand its use. "
+        },
+        "whatnew1": {
+            "title": "Ranch Sim Feature",
+            "article": "Most gamers have had the experience of being burned by a game with simulator appended at the end of the title. At this point, the word is less a descriptor of a genre than it is an indicator of a generally poorer quality title."
+        }
+    }
+}
