@@ -7,11 +7,11 @@
         "mediumrectangle": ["admob", "facebook", "ironsrc"]
     },
     "facebook": {
-        "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+        "native": "414467949888909_414468413222196",
+        "banner": "414467949888909_414469446555426",
+        "interstitial": "414467949888909_414468123222225",
+        "nativebanner": "485905499410343_485905952743631",
+        "mediumrectangle": "414467949888909_414469636555407"
     },
     "admob": {
         "publisher": "",
@@ -24,7 +24,7 @@
         "app": ""
     },
     "ironsrc":{
-        "app": ""
+        "app": "104af0399"
     },
     "content": {
         "tip1": {
