@@ -7,11 +7,11 @@
         "mediumrectangle": ["admob", "facebook", "ironsrc"]
     },
     "facebook": {
-        "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+        "native": "371062441254531_371063167921125",
+        "banner": "371062441254531_371063521254423",
+        "interstitial": "371062441254531_371062604587848",
+        "nativebanner": "371062441254531_371063831254392",
+        "mediumrectangle": "371062441254531_371064137921028"
     },
     "admob": {
         "publisher": "",
@@ -24,24 +24,24 @@
         "app": ""
     },
     "ironsrc":{
-        "app": ""
+        "app": "104ade3f1"
     },
     "content": {
         "tip1": {
             "title": "How To Use",
-            "article": "Sausage Man is a Battle Royale shooter for Android where the characters are sausages, leading to comical situations but without losing sight of the action, The thirst for Battle Royale shooter games seems to be unquenchable and we see them in all kinds of formats, from serious as in PUBG"
+            "article": "Ranch Simulator is a free-to-play open-world sandbox game that looks a lot like a macho, three-dimensional version of Stardew Valley. Its currently available in early access, allowing you to test features and connect with its developers. The core mechanics and game loops of ranching are currently included in the game. "
         },
         "tip2": {
-            "title": "Landing Location",
-            "article": "The first thing you need to pay attention to is the landing location. Each map in Sausage Man has its advantages and disadvantages, there are places with good loot that are targeted by many players, there are also quiet places which are usually located in the outermost area of the map. For beginners who are still confused about choosing a landing location, get off at a relatively safe location."
+            "title": "Realistic depiction of farm life",
+            "article": "Ranch Sim offers surprisingly good fun. Making your chicken coops and barns might easily consume a few hours of your time. If youre playing by yourself, be prepared to play for a long time. Unloading meat and wood from your truck, for example, takes a long time in this game."
         },
         "tip3": {
-            "title": "Game Looting",
-            "article": "Looting is the first thing you should do after getting off the bus. Almost like other battle royale games, you go down without being equipped with anything and you have to find your own war equipment. This equipment can be in the form of weapons, armor, bags, scopes, helmets, or healing items scattered on the game map."
+            "title": "HEAD OUT ON THE HUNT",
+            "article": "Theres a large open-world environment outside your cosy homestead and its teeming with wildlife. So when you feel like slowing the pace, why not grab your trusty rifle and head out into the forest to stalk deer and hunt bears? But remember, the wilderness lives by its own laws and you aren’t the only skilled hunter in the neighbourhood."
         },
         "tip4": {
-            "title": "Weapon Selection",
-            "article": " As explained above, of course you need a weapon. Sausage Man has a wide variety of weapons, each with its own advantages and disadvantages. There are many types of weapons that are powerful in close, medium, and long range. Pick a strategy, because when you choose the weapon to be used, of course you have to understand its use. "
+            "title": "LOOK AFTER YOUR LIVESTOCK",
+            "article": "Grand building projects are one thing. Paying for them? Thatll come down to your ranching skills. Overseeing a profitable operation is all about the day-to-day. Once youve selected and taken on your livestock, regular feeding and watering will keep them healthy. Successful breeding and careful rearing of the young will help boost the numbers in your herds and flocks"
         },
         "whatnew1": {
             "title": "Ranch Sim Feature",
