@@ -7,18 +7,18 @@
         "mediumrectangle": ["admob", "facebook", "ironsrc"]
     },
     "facebook": {
-        "native": "485905499410343_485905832743643",
-        "banner": "485905499410343_526526888681537",
-        "interstitial": "485905499410343_485905629410330",
-        "nativebanner": "485905499410343_485905952743631",
-        "mediumrectangle": "485905499410343_485906172743609"
-    },
-    "admob": {
-        "publisher": "",
+        "native": "",
         "banner": "",
         "interstitial": "",
-        "largebanner": "",
+        "nativebanner": "485905499410343_485905952743631",
         "mediumrectangle": ""
+    },
+    "admob": {
+        "publisher": "pub-1922691991665093",
+        "banner": "ca-app-pub-1922691991665093/7705044407",
+        "interstitial": "ca-app-pub-1922691991665093/7220801004",
+        "largebanner": "ca-app-pub-1922691991665093/1417809983",
+        "mediumrectangle": "ca-app-pub-1922691991665093/6528049327"
     },
     "startapp": {
         "app": ""
