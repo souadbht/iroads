@@ -1,0 +1,51 @@
+{
+    "networks": {
+        "native": ["admob", "facebook", "ironsrc"],
+        "banner": ["admob", "facebook", "ironsrc"],
+        "interstitial": ["admob", "facebook", "ironsrc"],
+        "nativebanner": ["admob", "facebook", "ironsrc"],
+        "mediumrectangle": ["admob", "facebook", "ironsrc"]
+    },
+    "facebook": {
+        "native": "",
+        "banner": "",
+        "interstitial": "",
+        "nativebanner": "",
+        "mediumrectangle": ""
+    },
+    "admob": {
+        "publisher": "",
+        "banner": "",
+        "interstitial": "",
+        "largebanner": "",
+        "mediumrectangle": ""
+    },
+    "startapp": {
+        "app": ""
+    },
+    "ironsrc":{
+        "app": "104ac8ac1"
+    },
+    "content": {
+        "tip1": {
+            "title": "How To Use",
+            "article": "Tentacle Locker is a game that involves forcing schoolgirls wearing pleated skirts into the lockers at a high school against their will by using a tentacle When delving into the murky world of adult games we can find well-made titles."
+        },
+        "tip2": {
+            "title": "Pro Advice for Tentaacle Lockerr",
+            "article": "When delving into the murky world of adult games we can find well-made titles, some that display rather dubious taste but are otherwise harmless, some that make you want to call the police, and then there are others, like Tentacle Locker, where you just dont know what to make of it."
+        },
+        "tip3": {
+            "title": "New Tips and Tricks",
+            "article": "Kiidnaap schoolgirls and lock them in your locker, So we are aware from the outset that the game is meant to be a joke... or at least that is what we want to think. It is set in the corridors of a girls school (horn alert) and we get to control a rather unusual set of lockers."
+        },
+        "tip4": {
+            "title": "Prom Beginner To Expert on Tencatlee Locker",
+            "article": "Once in the lockers, a Lovecraft type creature uses its tentacle (hence the name) to force them to engage in sexual relations. Incidentally, listen out for the sound effects if you like movies like Braindead by Peter Jackson or The Thing by John Carpenter."
+        },
+        "whatnew1": {
+            "title": "Tentacle Feature",
+            "article": "Simple Controls – This has to be among the most important thing in any game. When we are playing on a mobile phone, we expect to have simple controls because otherwise, it gets quite difficult to play. "
+        }
+    }
+}
